@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CommunityFreshFoodSupplyPlatform:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dc7f700-9786-4d15-b0b5-e88f593eedaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Et6kPeyY1OhMX5QIOwUkLCVkM2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\CommunityFreshFoodSupplyPlatform\src\main\webapp\static\images" />
+      <recent name="F:\CommunityFreshFoodSupplyPlatform\src\main\webapp\product" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cdut.web" />
+      <recent name="com.cdut.dao" />
+      <recent name="com.cdut.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\CommunityFreshFoodSupplyPlatform\src\main\webapp\new" />
+      <recent name="F:\CommunityFreshFoodSupplyPlatform\src\main\webapp\cus" />
+      <recent name="F:\CommunityFreshFoodSupplyPlatform\src\main\webapp\product" />
+      <recent name="F:\CommunityFreshFoodSupplyPlatform\src\main\webapp" />
+      <recent name="F:\CommunityFreshFoodSupplyPlatform\src\main\webapp\order" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.65">
+    <configuration name="CheckUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cdut.utils.CheckUtils" />
+      <module name="ShengXianAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdut.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cdut.utils.Md5Utils" />
+      <module name="ShengXianAdmin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdut.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConnection" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cdut.test.TestConnection" />
+      <module name="CommunityFreshFoodSupplyPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cdut.test.TestDao" />
+      <module name="CommunityFreshFoodSupplyPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cdut.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.65" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.65" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="CommunityFreshFoodSupplyPlatform:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_EmpAdmin_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="65403" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ShengXianAdmin:war exploded" />
+          <artifact name="CommunityFreshFoodSupplyPlatform:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestConnection" />
+      <item itemvalue="Application.TestDao" />
+      <item itemvalue="Application.CheckUtils" />
+      <item itemvalue="Application.Md5Utils" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.65" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDao" />
+        <item itemvalue="Application.CheckUtils" />
+        <item itemvalue="Application.Md5Utils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc7f700-9786-4d15-b0b5-e88f593eedaf" name="Default Changelist" comment="" />
+      <created>1663402676127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663402676127</updated>
+      <workItem from="1663402678596" duration="2468000" />
+      <workItem from="1663463180416" duration="9716000" />
+      <workItem from="1663481282319" duration="26621000" />
+      <workItem from="1663547222355" duration="1192000" />
+      <workItem from="1663558719420" duration="40885000" />
+      <workItem from="1663635685568" duration="8778000" />
+      <workItem from="1663653511562" duration="3678000" />
+      <workItem from="1663668005115" duration="58000" />
+      <workItem from="1663668242910" duration="347000" />
+      <workItem from="1663669021417" duration="1014000" />
+      <workItem from="1663680339317" duration="627000" />
+      <workItem from="1663682211265" duration="19000" />
+      <workItem from="1663742089816" duration="3484000" />
+      <workItem from="1663768444085" duration="20333000" />
+      <workItem from="1663829142313" duration="2556000" />
+      <workItem from="1663833784254" duration="7469000" />
+      <workItem from="1663841722870" duration="18000" />
+      <workItem from="1663842149842" duration="218000" />
+      <workItem from="1663842597229" duration="20955000" />
+      <workItem from="1663910941506" duration="1199000" />
+      <workItem from="1663912530249" duration="2713000" />
+      <workItem from="1663915347640" duration="13063000" />
+      <workItem from="1663929315852" duration="22847000" />
+      <workItem from="1663978708010" duration="496000" />
+      <workItem from="1663979356845" duration="24246000" />
+      <workItem from="1664114443471" duration="1035000" />
+      <workItem from="1665309240727" duration="23000" />
+      <workItem from="1665826912196" duration="324000" />
+      <workItem from="1666144327298" duration="7000" />
+      <workItem from="1666144673264" duration="209000" />
+      <workItem from="1669881758500" duration="259000" />
+      <workItem from="1670206210401" duration="8087000" />
+      <workItem from="1670226894568" duration="12317000" />
+      <workItem from="1670326836617" duration="612000" />
+      <workItem from="1670336832560" duration="1683000" />
+      <workItem from="1670385884850" duration="145000" />
+      <workItem from="1670480376643" duration="1829000" />
+      <workItem from="1670487600960" duration="161000" />
+      <workItem from="1670828526765" duration="7000" />
+      <workItem from="1671346886583" duration="103000" />
+      <workItem from="1671694620899" duration="713000" />
+      <workItem from="1672130505900" duration="64000" />
+      <workItem from="1672212150962" duration="13892000" />
+      <workItem from="1672294726714" duration="1535000" />
+      <workItem from="1677544859541" duration="1454000" />
+      <workItem from="1677547356402" duration="694000" />
+      <workItem from="1678195365559" duration="19565000" />
+      <workItem from="1678324356114" duration="769000" />
+      <workItem from="1678528655830" duration="15062000" />
+      <workItem from="1679396990287" duration="1864000" />
+      <workItem from="1679404153181" duration="37000" />
+      <workItem from="1679404222744" duration="826000" />
+      <workItem from="1679405090385" duration="617000" />
+      <workItem from="1679480661330" duration="440000" />
+      <workItem from="1679563097931" duration="171000" />
+      <workItem from="1679564234401" duration="19850000" />
+      <workItem from="1680442318439" duration="192000" />
+      <workItem from="1680444591694" duration="19209000" />
+      <workItem from="1680516892528" duration="643000" />
+      <workItem from="1680523098127" duration="3256000" />
+      <workItem from="1680567048622" duration="710000" />
+      <workItem from="1680569537765" duration="107000" />
+      <workItem from="1680569953707" duration="190000" />
+      <workItem from="1680837241621" duration="33000" />
+      <workItem from="1680863433788" duration="36000" />
+      <workItem from="1680880047373" duration="699000" />
+      <workItem from="1680945887113" duration="77000" />
+      <workItem from="1680956039782" duration="770000" />
+      <workItem from="1681023412295" duration="15000" />
+      <workItem from="1681043064039" duration="22000" />
+      <workItem from="1681258129385" duration="36000" />
+      <workItem from="1681733069935" duration="712000" />
+      <workItem from="1681863910605" duration="4653000" />
+      <workItem from="1682239786821" duration="5526000" />
+      <workItem from="1682305001635" duration="1273000" />
+      <workItem from="1682321718883" duration="1707000" />
+      <workItem from="1682331258425" duration="7383000" />
+      <workItem from="1682346477914" duration="766000" />
+      <workItem from="1682384545824" duration="230000" />
+      <workItem from="1682502361562" duration="323000" />
+      <workItem from="1682505212192" duration="116000" />
+      <workItem from="1682917169305" duration="57000" />
+      <workItem from="1683004565705" duration="1911000" />
+      <workItem from="1683174321961" duration="47000" />
+      <workItem from="1683373702415" duration="185000" />
+      <workItem from="1684197000490" duration="14146000" />
+      <workItem from="1684213617651" duration="327000" />
+      <workItem from="1684214564778" duration="2790000" />
+      <workItem from="1684607263086" duration="1342000" />
+      <workItem from="1684608627622" duration="5790000" />
+      <workItem from="1684643965580" duration="1626000" />
+      <workItem from="1684679823629" duration="23000" />
+      <workItem from="1684771756021" duration="22000" />
+      <workItem from="1684771813273" duration="2652000" />
+      <workItem from="1684799439401" duration="2393000" />
+      <workItem from="1684934056181" duration="2822000" />
+      <workItem from="1686236025895" duration="612000" />
+      <workItem from="1690456497146" duration="1053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1690599825661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1690599825661" />
+    <state width="1024" height="224" key="GridCell.Tab.0.bottom" timestamp="1684936886400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684936886400" />
+    <state width="1024" height="224" key="GridCell.Tab.0.center" timestamp="1684936886400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1684936886400" />
+    <state width="1024" height="224" key="GridCell.Tab.0.left" timestamp="1684936886400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1684936886400" />
+    <state width="1024" height="224" key="GridCell.Tab.0.right" timestamp="1684936886400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1684936886400" />
+    <state width="1024" height="224" key="GridCell.Tab.1.bottom" timestamp="1684936886401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684936886401" />
+    <state width="1024" height="224" key="GridCell.Tab.1.center" timestamp="1684936886400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1684936886400" />
+    <state width="1024" height="224" key="GridCell.Tab.1.left" timestamp="1684936886400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1684936886400" />
+    <state width="1024" height="224" key="GridCell.Tab.1.right" timestamp="1684936886401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1684936886401" />
+    <state width="1024" height="224" key="GridCell.Tab.2.bottom" timestamp="1684936886401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1684936886401" />
+    <state width="1024" height="224" key="GridCell.Tab.2.center" timestamp="1684936886401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1684936886401" />
+    <state width="1024" height="224" key="GridCell.Tab.2.left" timestamp="1684936886401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1684936886401" />
+    <state width="1024" height="224" key="GridCell.Tab.2.right" timestamp="1684936886401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="224" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1684936886401" />
+    <state x="178" y="22" key="new project wizard" timestamp="1690599879579">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1690599879579" />
+  </component>
+</project>

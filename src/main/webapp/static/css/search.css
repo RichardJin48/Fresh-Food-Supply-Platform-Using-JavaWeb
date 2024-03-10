@@ -1,0 +1,50 @@
+
+
+.search .hd h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.search .bd{
+    padding-top: 30px;
+    margin-bottom: 40px;
+}
+
+.search .bd a img {
+    width: 180px;
+    height: 180px;
+}
+
+
+.search .bd li {
+    float: left;
+    position: relative;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    width: 265px;
+    height: 280px;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.search .bd a img {
+    width: 180px;
+    height: 180px;
+}
+
+.search .bd a h3 {
+    margin: 10px 25px 10px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.search .bd b {
+    font-weight: 400;
+    color: red;
+    font-size: 16px;
+}
+
+.search .bd span {
+    color: red;
+    font-size: 19px;
+}

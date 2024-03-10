@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>user</title>
+    <link rel="stylesheet" href="../static/css/base.css">
+    <link rel="stylesheet" href="../static/css/common.css">
+    <link rel="stylesheet" href="../static/css/index.css">
+    <link rel="stylesheet" href="../static/css/userbd_common.css">
+    <link rel="stylesheet" href="../static/css/center.css">
+</head>
+
+<body>
+    <div class="shortcut">
+        <div class="wrapper">
+            <a href="/cus?opt=main&userName=${user.username}" class="logo">Community Fresh Food Supply Platform</a>
+            <ul>
+                <li><a href="/order?opt=list2&userName=${user.username}">My Orders</a></li>
+                <li><a href="/return?opt=list2&userName=${user.username}">My Returns</a></li>
+                <li><a href="/col?opt=list2&userName=${user.username}">My Favorites</a></li>
+                <li><a href="/cus?opt=show&userName=${user.username}">Welcome! User: ${user.username}</a></li>
+                <li><a href="/cus?opt=toLogin">Log Out</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="header wrapper">
+        <!-- cart -->
+        <a href="/shoppingCart?opt=list2&userName=${user.username}">
+            <div class="cart">
+<!--                <span>2</span>-->
+            </div>
+        </a>
+        <!-- search bar -->
+        <form action="/product?opt=search&userName=${user.username}" method="post">
+            <div class="search">
+                <input type="text" name="keyword" placeholder="Please enter the product name"/><button type="submit">Search</button>
+                <span></span>
+            </div>
+        </form>
+    </div>
+
+    <!-- user content -->
+    <div class="userbd">
+        <div class="wrapper">
+            <!-- aside -->
+            <div class="aside">
+                <ul>
+                    <li>
+                        <a href="./center.html">
+                            <img src="../static/upload/avatar.jpg" alt="">
+                            <p class="">Username</p>
+                        </a>
+                    </li>
+                    <li><a href="#">My Orders</a></li>
+                    <li><a href="order.html">shopCart</a></li>
+                    <li><a href="favorite.html">My Wishlist</a></li>
+                </ul>
+            </div>
+
+            <!-- main content -->
+            <div class="main">
+                <!-- orders -->
+                <div class="orders pannel">
+                    <div class="pannel_title">
+                        <h4>My Orders</h4>
+                        <a href="./order.html">More ></a>
+                    </div>
+                    <!-- order content -->
+                    <div class="content">
+                        <ul>
+                            <li>
+                                <div class="goods">
+                                    <div class="pic">
+                                        <a href="#"><img src="../static/images/1.jpg" alt=""></a>
+                                    </div>
+                                    <div class="txt">
+                                        <h5></h5>
+                                    </div>
+                                </div>
+                                <div class="number common">1</div>
+                                <div class="status common">Unpaid</div>
+                                <div class="amount common">
+                                    <b>£</b>
+                                    <span>99</span>
+                                </div>
+                                <div class="action common">
+                                    <a href="">Buy Now</a>
+                                    <a href="">Details</a>
+                                    <a href="">Cancel</a>
+                                </div>
+                            </li>
+                            <li></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="wishlist pannel">
+                    <div class="pannel_title">
+                        <h4>My Whishlist</h4>
+                        <a href="favorite.html">More</a>
+                    </div>
+                    <div class="content">
+                        <ul>
+                            <li>
+                                <div class="goods">
+                                    <div class="pic">
+                                        <a href="#"><img src="../static/images/1.jpg" alt=""></a>
+                                    </div>
+                                    <div class="txt">
+                                        <h5></h5>
+                                    </div>
+                                </div>
+                                <div class="number common">1</div>
+                                <div class="status common">Unpaid</div>
+                                <div class="amount common">
+                                    <b>£</b>
+                                    <span>99</span>
+                                </div>
+                                <div class="action common">
+                                    <a href="">Add to Car</a>
+                                    <a href="">Details</a>
+                                    <a href="">Cancel</a>
+                                </div>
+                            </li>
+                            <li></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="wrapper">
+            <div class="top">
+                <ul>
+                    <li>Low Price</li>
+                    <li>Fast Delivery</li>
+                    <li>Fresh Ingredients</li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</body>
+
+</html>

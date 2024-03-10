@@ -1,0 +1,100 @@
+.main h4 {
+    display: block;
+    margin-bottom: 20px;
+    line-height: 45px;
+    font-size: 22px;
+}
+
+.content li {
+    display: flex;
+    height: 137px;
+    margin-top: -1px;
+    margin-bottom: 20px;
+    border: 1px solid #c7c6c6;
+    background-color: #d8ffed;
+}
+
+.content li .goods {
+    display: flex;
+    align-items: center;
+    padding: 17px 0 14px 0;
+    flex: 1;
+    border-left: 1px solid #e8e8e8;
+    /* margin-right: 120px; */
+}
+
+.content li .goods .pic img {
+    margin-left: 15px;
+    width: 107px;
+    height: 107px;
+    margin-right: 10px;
+}
+
+.content li .goods .txt {
+    margin-left: 10px;
+    flex: 1;
+    width: 0;
+}
+
+.content li .goods .txt h5 {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.content li .number {
+    width: 160px;
+    border-left: 1px solid #e8e8e8;
+    border-right: 1px solid #e8e8e8;
+}
+
+.content li .time {
+    width: 240px;
+    border-right: 1px solid #e8e8e8;
+}
+
+.content li .price {
+    width: 160px;
+    border-right: 1px solid #e8e8e8;
+}
+
+.content li .price b {
+    margin-right: 2px;
+    font-weight: 400;
+    color: red;
+    font-size: 16px;
+}
+
+.content li .price span {
+    color: red;
+    font-size: 19px;
+}
+
+
+
+.content li .action {
+    flex-direction: column;
+    width: 180px;
+}
+
+.content li .action a {
+    margin: 2px 0;
+    width: 100px;
+    height: 30px;
+    background-color: #5eb69c;
+    text-align: center;
+    line-height: 30px;
+    font-size: 14px;
+    color: #fff;
+}
+
+.content .common {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content li:first-child{
+    height: 40px;
+    line-height: 30px;
+}

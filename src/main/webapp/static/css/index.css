@@ -1,0 +1,183 @@
+.banner {
+    height: 400px;
+    background-color: #f5f5f5;
+}
+
+.banner .wrapper {
+    position: relative;
+    height: 400px;
+}
+
+.banner .aside {
+    float: left;
+    width: 190px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, .6);
+}
+
+.banner .bcg {
+    float: right;
+}
+
+.banner .aside li {
+    position: relative;
+    height: 80px;
+    border-bottom: 1px solid #000;
+}
+
+.banner .aside li a {
+    display: block;
+    margin-left: 20px;
+    line-height: 80px;
+    font-size: 14px;
+    color: #f5f5f5;
+}
+
+.banner .aside li a::after {
+    position: absolute;
+    content: '';
+    top: 35px;
+    right: 28px;
+    width: 6px;
+    height: 11px;
+    background-image: url(../images/sprites.png);
+    background-position: -80px -110px;
+}
+
+.banner .aside li a:hover {
+    color: #00c65d;
+}
+
+.banner .prev,
+.banner .next {
+    position: absolute;
+    top: 180px;
+    width: 45px;
+    height: 45px;
+    background-color: rgba(0, 0, 0, .2);
+    background-image: url(../images/sprites.png);
+    border: none;
+    border-radius: 50%;
+
+}
+
+.banner .prev {
+    left: 224px;
+    background-position: 14px -59px;
+}
+
+.banner .next {
+    right: 27px;
+    background-position: -21px -59px;
+}
+
+.banner ol {
+    position: absolute;
+    left: 600px;
+    bottom: 30px;
+    width: 200px;
+    height: 10px;
+}
+
+.banner ol li {
+    float: left;
+    margin-left: 24px;
+    width: 10px;
+    height: 10px;
+    background-color: rgba(255, 255, 255, 0.47);
+    border-radius: 50%;
+}
+
+.banner ol .active {
+    background-color: #fff;
+}
+
+.recommend .bd {
+    font-size: 0;
+}
+
+.recommend .hd h2 {
+    text-align: center;
+    margin: 50px;
+    font-size: 28px;
+}
+
+
+.recommend .bd li {
+    float: left;
+    position: relative;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width: 265px;
+    height: 280px;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+.recommend .bd a img {
+    width: 180px;
+    height: 180px;
+}
+
+.recommend .bd a h3 {
+    margin: 10px 25px 10px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.recommend .bd b {
+    font-weight: 400;
+    color: red;
+    font-size: 16px;
+}
+
+.recommend .bd span {
+    color: red;
+    font-size: 19px;
+}
+
+.elevator {
+    position: fixed;
+    left: 50%;
+    top: 280px;
+    z-index: 999;
+    margin-left: 640px;
+    opacity: 0;
+    transition: all .5s;
+}
+
+.elevator .elevator-list {
+    width: 60px;
+    height: 300px;
+    background: #fff;
+    float: right;
+    border: 1px solid #f5f5f5;
+    position: relative;
+}
+
+.elevator .elevator-list li {
+    height: 60px;
+    padding: 15px;
+}
+
+.elevator .elevator-list li a {
+    width: 30px;
+    height: 30px;
+    display: block;
+}
+
+.elevator .elevator-list li a:hover,
+.elevator .elevator-list li a.active {
+    color: #27BA9B;
+}
+
+.elevator .elevator-list li a i {
+    display: block;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    left: 4px;
+    background-position: 8px -106px;
+    font-size: 20px;
+    transform: rotate(-90deg);
+}
